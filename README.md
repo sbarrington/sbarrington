@@ -4,7 +4,7 @@
 * 📚 2021 Fulbright-Elsevier Award holder for Data and Analytics
 * 🔍 Mixed methods researcher on topics including online abuse, trust protocols and cyber-physical threat
 
-<b>Formerly: 
+<b>Formerly:</b> 
 * 🏎 Modelling & Decision Sciences at McLaren Applied 
 * 📈 Algorithmic cryptocurrency and blockchain data modelling 
 * 👩🏼‍🎓 General Engineering BA/MA & Manufacturing MEng @ University of Cambridge 
