@@ -1,6 +1,6 @@
 ## 👋 Hi! I’m Sarah
 * 🔧 Engineer, Data Scientist and Python/R ninja
-* 🤓 Postgraduate Master's student in Information Management & Systems, UC Berkeley
+* 🤓 PhD Student at UC Berkeley
 * 📚 2021 Fulbright-Elsevier Award holder for Data and Analytics
 * 🔍 Mixed methods researcher on topics including online abuse, trust protocols and cyber-physical threat
 
